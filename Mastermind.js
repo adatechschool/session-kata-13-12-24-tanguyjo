@@ -11,7 +11,6 @@ let colours = [
 ];
 
 const coloursemoji = {
-  // Declaration d'une variable qui contient les cles et valeurs des 3 quiz
   red: "🔴",
   green: "🟢",
   blue: "🔵",
@@ -22,7 +21,6 @@ const coloursemoji = {
   brown: "🟤",
 };
 
-// let colours = ['black','yellow']
 let newcolour1;
 let newcolour2;
 let newcolour3;
@@ -134,5 +132,3 @@ function showcolors() {
   }
   console.log(emojishow);
 }
-
-// let answer = [red,blue,green,white];
